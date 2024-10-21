@@ -1,6 +1,6 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import SignIn1 from './SignIn1.js';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
+import SignIn1 from './SignIn1';
 import SignIn2 from './SignIn2';
 import SignIn3 from './SignIn3';
 
